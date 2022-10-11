@@ -1,0 +1,22 @@
+{
+  "name": "@karmen/quasar-app-extension-karmen",
+  "version": "0.0.1",
+  "description": "Karmen common code ",
+  "author": "Cagatay Yaman <cagatay@breadam.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmenlimited/karmen-core.git"
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
